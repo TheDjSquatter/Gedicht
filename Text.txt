@@ -1,7 +1,8 @@
 Farbtöne
 
 Rot
-Grün
+Hellgrün
+Dunkelgrün
 Blau
 Gelb
 Magenta
